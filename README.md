@@ -11,6 +11,8 @@ The specialization on
 contains the following 4 courses:
 
 1. [Machine Learning Foundations: A Case Study Approach](https://github.com/anishLearnsToCode/ml-foundations-case-study-approach)
-2. [Machine Learning: Regression]()
-2. [Machine Learning: Classification]()
-2. [Machine Learning: Clustering and Retrieval]()
+2. [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression)
+2. [Machine Learning: Classification](https://www.coursera.org/learn/ml-classification)
+2. [Machine Learning: Clustering and Retrieval](https://www.coursera.org/learn/ml-clustering-and-retrieval)
+
+> Hint: :octocat: links to the solution repository and 🎓 links to the certificate
